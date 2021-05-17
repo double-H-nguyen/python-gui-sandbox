@@ -1,4 +1,5 @@
-# Tutorial https://pysimplegui.readthedocs.io/en/latest/#this-readme-and-cookbook
+# Tutorial https://pysimplegui.readthedocs.io/en/latest/#getting-started-with-pysimplegui
+# Demos https://github.com/PySimpleGUI/PySimpleGUI/tree/master/DemoPrograms 
 
 import PySimpleGUI as sg
 
